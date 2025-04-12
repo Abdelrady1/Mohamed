@@ -23,4 +23,5 @@ The dataset includes the following variables:
 * 
  By examining various factors mentioned above from the dataset, you aim to gain insights into how recessions impact automobile sales for your company.
 
-![dashboard](RecessionReportgraphs.png)
+![RecessionReportgraphs](https://github.com/user-attachments/assets/a6b7c384-cc15-4cca-a592-fe622f87bc52)
+
